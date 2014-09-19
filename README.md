@@ -1,7 +1,7 @@
 ece-499-590-assignment1-fall-2014-Gibbons
 =========================================
 
-Clockwsie turn: http://www.youtube.com/watch?v=HgYcslSf8xw
+Clockwise turn: http://www.youtube.com/watch?v=HgYcslSf8xw
 
 Counterclockwise turn: http://www.youtube.com/watch?v=nhqRLap_4WM
 
